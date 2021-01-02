@@ -30,7 +30,7 @@ echo "<hr>";
 
 $a = 4;
 $b = 2;
-$c = " Resultcan no be out";
+$c = " Result can no be out";
 if ($b <5 && $a>0) {
 	$c = $a/$b;
 }
