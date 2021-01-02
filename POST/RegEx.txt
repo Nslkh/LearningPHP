@@ -1,0 +1,8 @@
+/[a-zA-Z0-9._-]{3,}@[a-zA-Z0-9._-]{3,}[.]{1}[a-zA-Z0-9._-]{2,}/
+
+````````````````````
+Olluzran2@gmail.co
+
+````````````````````
+
+# Thi is a complete example of: RegEx
